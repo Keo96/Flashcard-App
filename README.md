@@ -2,7 +2,7 @@
 
 Submitted by: **Onyedikachi Kanu**
 
-This web app: **Enhance your knowlegde with a variety of questions on different subjects**
+This web app: **Enhances your knowlegde with a variety of questions on different subjects**
 
 Time spent: **10** hours spent in total
 
@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 - [x] Cards contains images in addition to or in place of text
 - [x] Cards have different visual styles such as color based on their category
-  - [x] *visual style implemented* I used different colors to indicate difficulty level
+  - [x] *visual style implemented* 
+  I used different colors to indicate difficulty level
 
 The following **additional** features are implemented:
 
@@ -31,7 +32,7 @@ The user has the option to select from four categories: Biology, Physics, Movies
 
 Here's a walkthrough of implemented required features:
 
-<img src='public/Images/bgImage.jpeg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='public/Images/Project 2 Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
